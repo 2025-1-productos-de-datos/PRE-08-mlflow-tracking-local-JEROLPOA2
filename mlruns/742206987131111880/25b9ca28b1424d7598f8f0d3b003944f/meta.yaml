@@ -1,0 +1,15 @@
+artifact_uri: file:C:\Users\USUARIO\Desktop\Code projects\GitHub\Labs_ProductosDatos\PRE-08-mlflow-tracking-local-JEROLPOA2\mlruns/742206987131111880/25b9ca28b1424d7598f8f0d3b003944f/artifacts
+end_time: 1748101076829
+entry_point_name: ''
+experiment_id: '742206987131111880'
+lifecycle_stage: active
+run_id: 25b9ca28b1424d7598f8f0d3b003944f
+run_name: knn_19e6ac2d
+run_uuid: 25b9ca28b1424d7598f8f0d3b003944f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748101076738
+status: 3
+tags: []
+user_id: Jerónimo Ledesma
