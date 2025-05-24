@@ -39,7 +39,7 @@ def main():
     ## o un bucket de S3, por ejemplo.
     ##
     working_directory = os.path.abspath(os.getcwd())
-    mlflow_runs_path = os.path.join(working_directory, "mlruns")
+    mlflow_runs_path = os.path.join(working_directory, "my_mlruns")
 
     if not os.path.exists(mlflow_runs_path):
         os.makedirs(mlflow_runs_path)
@@ -101,4 +101,3 @@ def main():
         mlflow.log_metric("test_r2", r2)
 
         ## Ya no se requiere
-        # save_model_if_better(model, x_test, y_test)
